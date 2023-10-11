@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "client_img": "https://raw.githubusercontent.com/mehhed/client-img/main/download.jpeg",
+    "client_name": "John Doe",
+    "review": "Our wedding was absolutely perfect, and we couldn't have done it without the amazing team at XYZ Events. They turned our dream wedding into a reality. Thank you for making our special day unforgettable!"
+  },
+  {
+    "id": 2,
+    "client_img": "https://raw.githubusercontent.com/mehhed/client-img/main/images%20(1).jpeg",
+    "client_name": "Jane Smith",
+    "review": "I hired XYZ Party Planners for my son's 5th birthday, and it was a blast! The decorations, entertainment, and the cake were all top-notch. The kids had so much fun, and I couldn't be happier!"
+  },
+  {
+    "id": 3,
+    "client_img": "https://raw.githubusercontent.com/mehhed/client-img/main/images%20(2).jpeg",
+    "client_name": "Bob Johnson",
+    "review": "Celebrating our 25th wedding anniversary was a special moment, and thanks to XYZ Catering, it was unforgettable. The food was exquisite, and the attention to detail was exceptional. Our guests were thoroughly impressed!"
+  },
+  {
+    "id": 4,
+    "client_img": "https://raw.githubusercontent.com/mehhed/client-img/main/images%20(3).jpeg",
+    "client_name": "Alice Wilson",
+    "review": "Welcoming our new baby into the world was made even more special with the help of XYZ Baby Celebrations. The decorations and arrangements for the baby shower were adorable, and everyone had a great time!"
+  },
+  {
+    "id": 5,
+    "client_img": "https://raw.githubusercontent.com/mehhed/client-img/main/download%20(1).jpeg",
+    "client_name": "David Brown",
+    "review": "I can't thank XYZ Party Planners enough for making my graduation party a success. From the stylish decor to the delicious food, everything was perfect. It was a night to remember!"
+  },
+  {
+    "id": 6,
+    "client_img": "https://raw.githubusercontent.com/mehhed/client-img/main/download.jpeg",
+    "client_name": "Emily Davis",
+    "review": "Our company's annual gala organized by XYZ Events was a huge hit. The professionalism, attention to detail, and creativity of the team were commendable. It was a night of networking and celebration!"
+  }
+]
